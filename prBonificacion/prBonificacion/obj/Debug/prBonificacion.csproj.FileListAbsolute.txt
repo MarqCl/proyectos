@@ -1,0 +1,9 @@
+c:\users\diconserv\documents\visual studio 2013\Projects\prBonificacion\prBonificacion\bin\Debug\prBonificacion.exe.config
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prBonificacion\prBonificacion\bin\Debug\prBonificacion.exe
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prBonificacion\prBonificacion\bin\Debug\prBonificacion.pdb
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prBonificacion\prBonificacion\obj\Debug\prBonificacion.csprojResolveAssemblyReference.cache
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prBonificacion\prBonificacion\obj\Debug\prBonificacion.Form1.resources
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prBonificacion\prBonificacion\obj\Debug\prBonificacion.Properties.Resources.resources
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prBonificacion\prBonificacion\obj\Debug\prBonificacion.csproj.GenerateResource.Cache
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prBonificacion\prBonificacion\obj\Debug\prBonificacion.exe
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prBonificacion\prBonificacion\obj\Debug\prBonificacion.pdb
