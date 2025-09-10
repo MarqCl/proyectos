@@ -1,0 +1,9 @@
+c:\users\diconserv\documents\visual studio 2013\Projects\prOperadores\prOperadores\bin\Debug\prOperadores.exe.config
+c:\users\diconserv\documents\visual studio 2013\Projects\prOperadores\prOperadores\bin\Debug\prOperadores.exe
+c:\users\diconserv\documents\visual studio 2013\Projects\prOperadores\prOperadores\bin\Debug\prOperadores.pdb
+c:\users\diconserv\documents\visual studio 2013\Projects\prOperadores\prOperadores\obj\Debug\prOperadores.csprojResolveAssemblyReference.cache
+c:\users\diconserv\documents\visual studio 2013\Projects\prOperadores\prOperadores\obj\Debug\prOperadores.Form1.resources
+c:\users\diconserv\documents\visual studio 2013\Projects\prOperadores\prOperadores\obj\Debug\prOperadores.Properties.Resources.resources
+c:\users\diconserv\documents\visual studio 2013\Projects\prOperadores\prOperadores\obj\Debug\prOperadores.csproj.GenerateResource.Cache
+c:\users\diconserv\documents\visual studio 2013\Projects\prOperadores\prOperadores\obj\Debug\prOperadores.exe
+c:\users\diconserv\documents\visual studio 2013\Projects\prOperadores\prOperadores\obj\Debug\prOperadores.pdb
