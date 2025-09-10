@@ -1,0 +1,9 @@
+c:\users\diconserv\documents\visual studio 2013\Projects\Sistema de ventas marcos y julissa\Sistema de ventas marcos y julissa\bin\Debug\Sistema de ventas marcos y julissa.exe.config
+c:\users\diconserv\documents\visual studio 2013\Projects\Sistema de ventas marcos y julissa\Sistema de ventas marcos y julissa\bin\Debug\Sistema de ventas marcos y julissa.exe
+c:\users\diconserv\documents\visual studio 2013\Projects\Sistema de ventas marcos y julissa\Sistema de ventas marcos y julissa\bin\Debug\Sistema de ventas marcos y julissa.pdb
+c:\users\diconserv\documents\visual studio 2013\Projects\Sistema de ventas marcos y julissa\Sistema de ventas marcos y julissa\obj\Debug\Sistema de ventas marcos y julissa.csprojResolveAssemblyReference.cache
+c:\users\diconserv\documents\visual studio 2013\Projects\Sistema de ventas marcos y julissa\Sistema de ventas marcos y julissa\obj\Debug\Sistema_de_ventas_marcos_y_julissa.Form1.resources
+c:\users\diconserv\documents\visual studio 2013\Projects\Sistema de ventas marcos y julissa\Sistema de ventas marcos y julissa\obj\Debug\Sistema_de_ventas_marcos_y_julissa.Properties.Resources.resources
+c:\users\diconserv\documents\visual studio 2013\Projects\Sistema de ventas marcos y julissa\Sistema de ventas marcos y julissa\obj\Debug\Sistema de ventas marcos y julissa.csproj.GenerateResource.Cache
+c:\users\diconserv\documents\visual studio 2013\Projects\Sistema de ventas marcos y julissa\Sistema de ventas marcos y julissa\obj\Debug\Sistema de ventas marcos y julissa.exe
+c:\users\diconserv\documents\visual studio 2013\Projects\Sistema de ventas marcos y julissa\Sistema de ventas marcos y julissa\obj\Debug\Sistema de ventas marcos y julissa.pdb
