@@ -1,0 +1,9 @@
+c:\users\diconserv\documents\visual studio 2013\Projects\prControles\prControles\bin\Debug\prControles.exe.config
+c:\users\diconserv\documents\visual studio 2013\Projects\prControles\prControles\bin\Debug\prControles.exe
+c:\users\diconserv\documents\visual studio 2013\Projects\prControles\prControles\bin\Debug\prControles.pdb
+c:\users\diconserv\documents\visual studio 2013\Projects\prControles\prControles\obj\Debug\prControles.csprojResolveAssemblyReference.cache
+c:\users\diconserv\documents\visual studio 2013\Projects\prControles\prControles\obj\Debug\prControles.Form1.resources
+c:\users\diconserv\documents\visual studio 2013\Projects\prControles\prControles\obj\Debug\prControles.Properties.Resources.resources
+c:\users\diconserv\documents\visual studio 2013\Projects\prControles\prControles\obj\Debug\prControles.csproj.GenerateResource.Cache
+c:\users\diconserv\documents\visual studio 2013\Projects\prControles\prControles\obj\Debug\prControles.exe
+c:\users\diconserv\documents\visual studio 2013\Projects\prControles\prControles\obj\Debug\prControles.pdb

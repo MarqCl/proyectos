@@ -1,0 +1,10 @@
+c:\users\diconserv\documents\visual studio 2013\Projects\prEstructurasCondicionales2\prEstructurasCondicionales2\bin\Debug\prEstructurasCondicionales2.exe.config
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prEstructurasCondicionales2\prEstructurasCondicionales2\bin\Debug\prEstructurasCondicionales2.exe
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prEstructurasCondicionales2\prEstructurasCondicionales2\bin\Debug\prEstructurasCondicionales2.pdb
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prEstructurasCondicionales2\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.csprojResolveAssemblyReference.cache
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prEstructurasCondicionales2\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.Form1.resources
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prEstructurasCondicionales2\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.Properties.Resources.resources
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prEstructurasCondicionales2\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.csproj.GenerateResource.Cache
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prEstructurasCondicionales2\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.exe
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prEstructurasCondicionales2\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.pdb
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prEstructurasCondicionales2\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.frmclima.resources
