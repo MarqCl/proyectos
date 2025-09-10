@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 import programaventavehiculos.Cliente;
 import programaventavehiculos.Factura;
 import programaventavehiculos.Vehiculo;
