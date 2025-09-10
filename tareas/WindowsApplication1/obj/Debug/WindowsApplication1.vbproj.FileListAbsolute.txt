@@ -1,0 +1,4 @@
+E:\WindowsApplication1\bin\Debug\$safeprojectname$.exe.config
+E:\WindowsApplication1\obj\Debug\$safeprojectname$.Form1.resources
+E:\WindowsApplication1\obj\Debug\$safeprojectname$.Resources.resources
+E:\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
