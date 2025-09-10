@@ -1,0 +1,9 @@
+c:\users\diconserv\documents\visual studio 2013\Projects\prInteres\prInteres\bin\Debug\prInteres.exe.config
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prInteres\prInteres\bin\Debug\prInteres.exe
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prInteres\prInteres\bin\Debug\prInteres.pdb
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prInteres\prInteres\obj\Debug\prInteres.csprojResolveAssemblyReference.cache
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prInteres\prInteres\obj\Debug\prInteres.Form1.resources
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prInteres\prInteres\obj\Debug\prInteres.Properties.Resources.resources
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prInteres\prInteres\obj\Debug\prInteres.csproj.GenerateResource.Cache
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prInteres\prInteres\obj\Debug\prInteres.exe
+C:\Users\DICONSERV\Documents\Visual Studio 2013\Projects\prInteres\prInteres\obj\Debug\prInteres.pdb
